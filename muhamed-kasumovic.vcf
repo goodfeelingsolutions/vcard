@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Muhamed Kasumovic
+N:Kasumovic;Muhamed;;;
+ORG:good feeling cleaning
+TITLE:Teamleitung
+TEL;TYPE=CELL,VOICE:+436605440569
+EMAIL;TYPE=INTERNET:office@goodfeeling.cleaning
+URL:https://www.goodfeeling.cleaning
+ADR;TYPE=WORK:;;Geiselbergstraße 58/1-2;Wien;;1110;Austria
+END:VCARD
